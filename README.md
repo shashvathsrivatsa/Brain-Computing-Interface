@@ -9,6 +9,7 @@ at a specific rate, measured in samples per second (Hz). The rate at which the d
 sampled will determine the time intervals between consecutive numbers in your list.
 
 Measurement: μV (microvolts)
+
 Rate: 256 hz
 
 
